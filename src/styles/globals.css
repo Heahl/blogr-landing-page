@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Overpass';
+    src: url("/fonts/overpass/Overpass-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Ubuntu Light';
+    src: url("/fonts/ubuntu/Ubuntu-Light.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Ubuntu Medium";
+    src: url("/fonts/ubuntu/Ubuntu-Medium.ttf") format("truetype");
+    font-weight: 600;
+}

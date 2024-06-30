@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+    .roundedDiv {
+        border-radius: 0 10vw 0 10vw;
+    }
+}
